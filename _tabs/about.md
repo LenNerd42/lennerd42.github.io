@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello and welcome to my humble blog! I'm Lennart, a hobbyist software/game developer from Germany. Online I go by LenNerd. I'm planning to use this blog to record random thoughts or experiences of mine, so stay tuned.
+
+I swear, ChatGPT didn't write this introduction, I just couldn't think of anything better to say.
