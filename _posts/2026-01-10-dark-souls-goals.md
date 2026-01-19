@@ -3,7 +3,7 @@ layout: post
 title: How Dark Souls Helped me Achieve my Goals
 description: Or why gaming CAN teach you useful things.
 tags: [intention, mindfulness, gaming]
-categories: [Stories]
+categories: [Gaming]
 date: 2026-01-10 23:36 +0100
 ---
 

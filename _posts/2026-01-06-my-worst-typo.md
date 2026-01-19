@@ -2,8 +2,8 @@
 layout: post
 title: How a Typo Broke my Linux Installation
 description: The right slash in the wrong place can make all the difference.
-tags: [linux]
-categories: [Stories]
+tags: [linux, mint]
+categories: [Linux]
 date: 2026-01-06 17:24 +0100
 ---
 
