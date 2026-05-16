@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saving and Loading Maps in Godot the Smart Way!
+title: Saving and Loading Maps in Godot - the Smart Way!
 description: How to put GDScript's reflection system to good use.
 tags: [godot, game dev, tutorial]
 categories: [Godot]
