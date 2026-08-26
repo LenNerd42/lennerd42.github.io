@@ -1,0 +1,54 @@
+---
+permalink: /robots.txt
+# The robots rules
+---
+
+User-agent: *
+
+Disallow: /norobots/
+
+# Block AI training crawlers and AI Scrapers
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: ZyteBot
+Disallow: /
+
+User-agent: ApifyBot
+Disallow: /
+
+User-agent: JinaBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
