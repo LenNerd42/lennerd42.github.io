@@ -28,3 +28,7 @@ assets/js/dist
 
 # Shhh, secret!
 _drafts
+# Hidden system files
+*~
+.DS_Store
+Thumbs.db
